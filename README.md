@@ -1,5 +1,7 @@
 # Prehistory
 PowerPoint style pixel <br />
+
+Run Prehistory.exe to play
 Button Control: <br />
   [Space] - show content <br />
   [N] - next scene <br />
