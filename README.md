@@ -1,9 +1,9 @@
 # Prehistory
-PowerPoint style pixel
-Button Control:
-  [Space] - show content
-  [N] - next scene
-  [B] - back scene
-  [Arrow Right] - next content
-  [Arrow Left] - left content
-  [E] - end
+PowerPoint style pixel <br />
+Button Control: <br />
+  [Space] - show content <br />
+  [N] - next scene <br />
+  [B] - back scene <br />
+  [Arrow Right] - next content <br />
+  [Arrow Left] - left content <br />
+  [E] - end 
